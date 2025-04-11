@@ -1,3 +1,3 @@
 # my-devops-notes
-personal notes on LINUX
+personal notes on LINUX.
 
